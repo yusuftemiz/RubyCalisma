@@ -34,7 +34,7 @@ b = zarAt()
 puts farscayaDonustur(a)
 puts farscayaDonustur(b)
 	
-puts "Farçasayıların karşılıklarını görmek istiyor musunuz? (E/H)"
+puts "Farsça sayıların karşılıklarını görmek istiyor musunuz? (E/H)"
 d = gets.chomp
 
 if (d == "E" || d == "e")

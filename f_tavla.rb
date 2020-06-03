@@ -49,6 +49,6 @@ b = zarAt()
 
 puts farscaSonuc(a, b)
 
-puts "Farçasayıların karşılıklarını görmek istiyor musunuz? (E/H)"
+puts "Farsça sayıların karşılıklarını görmek istiyor musunuz? (E/H)"
 d = gets.chomp
 puts kontrol(d)

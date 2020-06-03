@@ -47,7 +47,7 @@ def main
 	puts farscaSonuc(a, b)
 
 	# istege bagli olarak karsiliklarini ogren
-	puts "Farçasayıların karşılıklarını görmek istiyor musunuz? (E/H)"
+	puts "Farsça sayıların karşılıklarını görmek istiyor musunuz? (E/H)"
 	d = gets.chomp
 	puts kontrol(d)
 end
